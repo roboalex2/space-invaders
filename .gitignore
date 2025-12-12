@@ -1,0 +1,63 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds
+[Ll]ogs
+[Uu]ser[Ss]ettings
+[Mm]emoryCaptures
+
+# =========================
+# AssetStore tools cache
+# =========================
+[Aa]ssetsAssetStoreTools
+
+# =========================
+# Visual Studio  Rider
+# =========================
+.vs
+.vscode
+.idea
+.csproj
+.sln
+.suo
+.user
+.userprefs
+.pidb
+.booproj
+
+# =========================
+# OS  editor junk
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Crash & profiler data
+# =========================
+sysinfo.txt
+.stackdump
+
+# =========================
+# Unity meta safety
+# =========================
+# NEVER ignore .meta files
+!.meta
+
+# =========================
+# Optional Addressables
+# =========================
+# If you rebuild addressables on CI, ignore these
+# [Aa]ssetsAddressableAssetsDataBuild
+# [Aa]ssetsAddressableAssetsDataPlayerBuildData
+
+# =========================
+# Optional StreamingAssets
+# =========================
+# Ignore generated content only, not hand-written files
+# [Aa]ssetsStreamingAssetsGenerated
